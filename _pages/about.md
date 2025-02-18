@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Home Page"
 author_profile: true
 redirect_from: 
   - /about/
@@ -10,6 +10,6 @@ redirect_from:
 
 Celeste Carruthers is the William F. Fox Distinguished Professor of Labor Economics in the [Haslam College of Business](https://haslam.utk.edu/) at the University of Tennessee with a joint appointment in the [Department of Economics](https://haslam.utk.edu/economics) and the [Boyd Center for Business and Economic Research](https://haslam.utk.edu/boyd-center). Her [research](https://ckcarruthers.github.io/publications) centers on education policy with crossovers into public economics, labor economics, and economic history. Recent and ongoing projects examine the effect of financial aid on college choices, career and technical education, and the consequences of segregated schools in the early 20th-century United States. She [teaches](https://ckcarruthers.github.io/teaching) graduate and undergraduate courses in public expenditure analysis, causal inference, and econometrics. 
 
-Carruthers is the Editor-in-Chief of *Economics of Education Review*, a Research Associate at the National Bureau of Economic Research, a member of the CTE Research Network at the American Institutes for Research, a Baker Expert at the Howard H. Baker Jr. Center for Public Policy, and a former faculty advisor to several fellows in the Harvard Graduate School of Education Strategic Data Project.
+Carruthers is the Editor-in-Chief of Economics of Education Review, a Research Associate at the National Bureau of Economic Research, a member of the CTE Research Network at the American Institutes for Research, a Baker Expert at the Howard H. Baker Jr. Center for Public Policy, and a former faculty advisor to several fellows in the Harvard Graduate School of Education Strategic Data Project.
 
 Before arriving at UT in 2009, Carruthers earned a Ph.D. in economics from the University of Florida, an M.A. in economics from the University of New Hampshire, and a bachelor's degree in economics and accounting from Appalachian State University.
